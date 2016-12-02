@@ -1,5 +1,7 @@
 # Redux Counter Example Implementing Custom Middlewares
 
+Tutorial can be found [here](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb#.9cu40l9hy)
+
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
